@@ -80,3 +80,8 @@ button:hover{
         transform: translateX(0);
     }
 }
+@media(max-width:767px){
+    .container{
+        width:250px
+    }
+}
